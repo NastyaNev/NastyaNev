@@ -14,7 +14,7 @@
 
 `Обо мне:`
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :mag: Люблю понимать механизм любых процессов. <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :mag: Люблю понимать механизмы работы процессов. <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :page_with_curl: В любой непонятной ситуации читаю документацию. <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :ok_hand: Ценю вёртску PerfectPixel. <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :open_book: Думаю, что код - как хорошая литература, должен легко и увлекательно читаться. <br />
