@@ -29,3 +29,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :speech_balloon: О путешествиях и релокации. <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :speech_balloon: О научной фантастике и немного о супергероике, фэнтези :zap:. <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :speech_balloon: Об искусстве и архетиктуре. <br />
+
+![ezgif com-video-to-gif](https://github.com/NastyaNev/NastyaNev/assets/129982615/6d3a96e3-c9a5-4d57-b691-8561a960306a)
