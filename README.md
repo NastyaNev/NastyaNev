@@ -1,9 +1,11 @@
 `Привет! Меня зовут Настя и я начинающий front-end разработчик.`
 
+* Секция *feynman*, презентующая метод обучения американского физика Ричарда Фейнмана. Об этом неординарном человеке можно подробнее почитать в [Википедии](https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%B9%D0%BD%D0%BC%D0%B0%D0%BD,_%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4 "Ссылка на статью в Википедии"){:target="_blank" rel="noopener"}
+
 `Стек:`
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="35px" height="35px"></a>
-<a href="https://www.w3.org/TR/CSS/" target="_blank" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="35px" height="35px"></a>
+<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="35px" height="35px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="35px" height="35px"></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="35px" height="35px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="35px" height="35px"></a>
