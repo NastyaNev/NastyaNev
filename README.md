@@ -11,3 +11,18 @@
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="35px" height="35px"></a>
 <a href="https://webpack.js.org/" title="webpack"><img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="webpack" width="35px" height="35px"></a>
 <a href="https://www.cypress.io/" title="Cypress"><img src="https://github.com/get-icon/geticon/raw/master/icons/cypress.svg" alt="Cypress" width="35px" height="35px"></a>
+
+Обо мне:
+
+Люблю понимать механизм любых процессов.
+В любой непонятной ситуации читаю документацию.
+:ok_hand: Ценю вёртску PerfectPixel.
+Думаю, что код - как хорошая литература, должен легко и увлекательно читаться.
+Грокаю алгоритмы.
+:eyes: Ищу стажировки и интересные прокты.
+
+О чем со мной поговорить:
+:speech_balloon: Обо всех видах досок. Особенно про сноубординг и сап-серфинг (а вы о чем подумали?).
+:speech_balloon: О путешествиях и релокации.
+:speech_balloon: О научной фантастике и немного о супергероике.
+:speech_balloon: Об искусстве и архетиктуре.
