@@ -2,8 +2,8 @@
 
 `Стек:`
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="35px" height="35px"></a>
-<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="35px" height="35px"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://img.shields.io/badge/HTML-%23000000?logo=html5&logoColor=%23FFFFFF%20&color=%23E34F26" height="30px"></a>
+<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://img.shields.io/badge/CSS-%23000000?logo=css3&logoColor=%23FFFFFF%20&color=%231572B6" height="30px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23000000?logo=javascript&logoColor=%23000000&color=%23F7DF1E" height="30px"></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="35px" height="35px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="35px" height="35px"></a>
