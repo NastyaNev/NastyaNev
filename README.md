@@ -18,7 +18,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :ok_hand: Ценю вёртску PerfectPixel. <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :open_book: Думаю, что код - как хорошая литература, должен легко и увлекательно читаться. <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :nerd_face: Грокаю алгоритмы. <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :eyes: Ищу стажировки и интересные прокты. <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :eyes: Ищу стажировки и интересные прокты в качестве frontend-разработчика. <br />
 
 `О чем со мной поговорить:`
 
