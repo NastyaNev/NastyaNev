@@ -13,16 +13,16 @@
 
 `About me:`
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :mag: "How it works?" nerd <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :mag: "How it works?" nerd. <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :page_with_curl: In any incomprehensible situation, read MDN. <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :ok_hand: Keen on PerfectPixel layout. <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :open_book: Think code is like a giid book - need to be easy and gripping to read. <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :open_book: Think code is like a good book - need to be easy and gripping to read. <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :nerd_face: Grokking algorithms. <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :eyes: Looking for an internship or a job as a fron-end developer. <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :eyes: Looking for an internship or a job as a front-end developer. <br />
 
 `What to chat with me about`
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :speech_balloon: About all kindes of boards. Mostly snowboards :snowboarder: or sup-surfs :joy:. <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :speech_balloon: About all kindes of boards. Mostly snowboards :snowboarder: or sup-surfs. <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :speech_balloon: About travellings and relocation. <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :speech_balloon: About science fiction and a bit about comics and fantasy fiction. :zap:. <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :speech_balloon: About art and architecture. <br />
