@@ -1,4 +1,4 @@
-`Hi there! My name is Anastasia and I'm novice front-end developer.`
+`Hi there! My name is Anastasia and I'm front-end developer.`
 
 `Skills:`
 
