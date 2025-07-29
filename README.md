@@ -1,5 +1,7 @@
 `Hi there! My name is Anastasia and I'm front-end developer.`
 
+My latest project: https://наполях.рф/.
+
 `Skills:`
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,6 +26,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :speech_balloon: About art and architecture. <br />
 
 `Привет! Меня зовут Настя, и я front-end разработчик.`
+
+Последний проект: https://наполях.рф/.
 
 `Стек:`
 
