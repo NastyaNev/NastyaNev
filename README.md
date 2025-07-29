@@ -1,6 +1,6 @@
 `Hi there! My name is Anastasia and I'm front-end developer.`
 
-My latest project: https://наполях.рф/.
+`My latest project:` https://наполях.рф/.
 
 `Skills:`
 
@@ -27,7 +27,7 @@ My latest project: https://наполях.рф/.
 
 `Привет! Меня зовут Настя, и я front-end разработчик.`
 
-Последний проект: https://наполях.рф/.
+`Последний проект:` https://наполях.рф/.
 
 `Стек:`
 
